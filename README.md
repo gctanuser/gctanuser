@@ -50,10 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-## ⚡ Fun Facts
-- 📚 Currently reading about **AI and Data Ethics**  
-- ✨ Motto: *“Data is the new oil, but insights are the real fuel.”*  
----
+
 <!--
 ## 📈 GitHub Stats
 ![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
